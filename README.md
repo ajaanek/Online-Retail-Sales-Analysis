@@ -60,15 +60,15 @@ Seasonal analysis helped identify peak sales periods, which can guide inventory 
 By segmenting customers based on their purchase frequency, recency, and average spend, the project highlights opportunities for targeted marketing and personalized customer retention strategies.
 
 ## Technical Skills Demonstrated
-**Data Cleaning & Transformation**: Efficiently managed and preprocessed data in Python.
-**Tableau**: Built dynamic dashboards with interactive visualizations, including bar charts, scatter plots, and Pareto analyses.
-**Analytical Thinking**: Derived actionable insights from the data, providing a comprehensive view of sales performance and customer behavior.
+- **Data Cleaning & Transformation**: Efficiently managed and preprocessed data in Python.
+- **Tableau**: Built dynamic dashboards with interactive visualizations, including bar charts, scatter plots, and Pareto analyses.
+- **Analytical Thinking**: Derived actionable insights from the data, providing a comprehensive view of sales performance and customer behavior.
 
 
 ## How to Use This Repository
-**Kaggle Notebook**: The project’s complete data analysis, including Python code for data cleaning and transformation, is available in the Kaggle Notebook (link provided in the repository).
-**Tableau Visualizations**: The dashboards created in Tableau have been exported and are showcased via GitHub Pages. Visit the Deployed Dashboard for an interactive view.
-**Source Code**: All Python scripts and SQL queries used in this project are included in the repository.
+- **Kaggle Notebook**: The project’s complete data analysis, including Python code for data cleaning and transformation, is available in the Kaggle Notebook (link provided in the repository).
+- **Tableau Visualizations**: The dashboards created in Tableau have been exported and are showcased via GitHub Pages. Visit the Deployed Dashboard for an interactive view.
+- **Source Code**: All Python scripts and SQL queries used in this project are included in the repository.
 
 
 ## Conclusion
