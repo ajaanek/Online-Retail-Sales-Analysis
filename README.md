@@ -3,10 +3,10 @@
 Welcome to my repository for the Online Retail Sales Analysis project. This project demonstrates my ability to perform a complete data analysis workflow—from data cleaning creating dynamic, insightful visualizations in Tableau. The project leverages a comprehensive dataset from Kaggle, which contains transaction-level data including product details, invoice numbers, customer information, and sales quantities.
 
 ## Project Links
-[Github Pages](https://ajaanek.github.io/Online-Retail-Sales-Analysis/)
-[Tableau Sales Dashboard](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesDashboard)
-[Tableau Sales Analysis](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesAnalysis?publish=yes)
-[Kaggle Notebook](https://www.kaggle.com/code/ajaanekanagasabai/online-retail-sales-analysis)
+- [Github Pages](https://ajaanek.github.io/Online-Retail-Sales-Analysis/)
+- [Tableau Sales Dashboard](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesDashboard)
+- [Tableau Sales Analysis](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesAnalysis?publish=yes)
+- [Kaggle Notebook](https://www.kaggle.com/code/ajaanekanagasabai/online-retail-sales-analysis)
 
 
 ## Overview
@@ -38,6 +38,7 @@ The analysis uses the Online Retail Sales Dataset from [Kaggle](https://www.kagg
 - Created additional fields (e.g., quarters and sales periods) to facilitate analysis.
 
 **Data Visualization with Tableau**:
+
 After preprocessing the data in Python, I exported the cleaned dataset and built interactive Tableau dashboards. These dashboards include:
 - Sales Volume vs. Unit Price: To analyze product pricing and stocking strategies.
 - Pareto Analysis for Items & Customers: To identify which products and customers contribute the most to revenue.
@@ -47,7 +48,7 @@ After preprocessing the data in Python, I exported the cleaned dataset and built
   
 ## Key Insights
 **Product Insights**:
-The analysis revealed that the top 20 products by sales volume are not the same as the top 20 by revenue. This suggests that products with high sales frequency tend to be lower-priced, everyday items, while higher-priced, premium items—though sold less frequently—drive a significant portion of the revenue.
+The analysis revealed that the top 20 products by sales volume are not the same as the top 20 by revenue. This suggests that products with high sales frequency tend to be lower-priced, everyday items, while higher-priced, premium items-though sold less frequently-drive a significant portion of the revenue.
 
 **Regional Performance**:
 A significant concentration of sales is observed in the UK, highlighting an opportunity to either expand in other regions or further optimize operations within the UK.
