@@ -22,13 +22,13 @@ Project Title: Online Retail Sales Analysis: A Data-Driven Approach to Optimizin
 
 ## Data Source
 The analysis uses the Online Retail Sales Dataset from [Kaggle](https://www.kaggle.com/datasets/rohitmahulkar/online-retails-sale-dataset/code). The dataset includes:
-**InvoiceNo**: Unique transaction identifiers.
-**InvoiceDate & InvoiceTime**: Timestamps indicating when orders were placed.
-**StockCode & Description**: Details about the products.
-**Quantity & UnitPrice**: Metrics of the product sales.
-**Totalsale**: Total selling price for the transactions.
-**CustomerID**: Unique identifiers for customers.
-**Country**: Geographical information of the transaction.
+- **InvoiceNo**: Unique transaction identifiers.
+- **InvoiceDate & InvoiceTime**: Timestamps indicating when orders were placed.
+- **StockCode & Description**: Details about the products.
+- **Quantity & UnitPrice**: Metrics of the product sales.
+- **Totalsale**: Total selling price for the transactions.
+- **CustomerID**: Unique identifiers for customers.
+- **Country**: Geographical information of the transaction.
 
 
 ## Project Workflow
@@ -70,7 +70,7 @@ By segmenting customers based on their purchase frequency, recency, and average 
 - [**Github Pages**](https://ajaanek.github.io/Online-Retail-Sales-Analysis/): The complete project - including both the Kaggle Notebook and the interactive Tableau Visualizations, is available in the deployed Github Page
 - [**Kaggle Notebook**](https://www.kaggle.com/code/ajaanekanagasabai/online-retail-sales-analysis): The project’s complete data analysis, including Python code for data cleaning and transformation, is available in the Kaggle Notebook (link provided in the repository).
 - **Tableau Visualizations**: The dashboards created in Tableau have been exported and are showcased via GitHub Pages. Visit the Deployed Dashboard for an interactive view.
-- **Source Code**: All Python scripts and SQL queries used in this project are included in the repository.
+- **Source Code**: All Python scripts used in this project are included in the repository.
 
 
 ## Conclusion
