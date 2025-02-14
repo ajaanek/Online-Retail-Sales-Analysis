@@ -45,7 +45,7 @@ After preprocessing the data in Python, I exported the cleaned dataset and built
 - Regional sales distribution and quarterly comparisons (including year-over-year insights).
 - Customer segmentation analysis based on recency, frequency, and average spend.
 
-<iframe frameborder="0" marginheight="0" marginwidth="0" title="Data Visualization" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display: block; min-width: 420px; max-width: 1200px; width: 100%; min-height: 587px; max-height: 627px; height: 925.5px; margin: 0px; padding: 0px; border: none;" src="https://public.tableau.com/views/OnlineRetailSalesAnalysis_17332491897690/SalesDashboard?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en-US&amp;:loadOrderID=0"></iframe>
+<iframe src="https://public.tableau.com/views/OnlineRetailSalesAnalysis_17332491897690/SalesDashboard?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en-US&amp;:loadOrderID=0"></iframe>
   
 ## Key Insights
 **Product Insights**:
