@@ -45,7 +45,6 @@ After preprocessing the data in Python, I exported the cleaned dataset and built
 - Regional sales distribution and quarterly comparisons (including year-over-year insights).
 - Customer segmentation analysis based on recency, frequency, and average spend.
 
-<iframe src="https://public.tableau.com/views/OnlineRetailSalesAnalysis_17332491897690/SalesDashboard?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en-US&amp;:loadOrderID=0"></iframe>
   
 ## Key Insights
 **Product Insights**:
