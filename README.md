@@ -39,7 +39,7 @@ The analysis uses the Online Retail Sales Dataset from [Kaggle](https://www.kagg
 
 **Data Visualization with Tableau**:
 
-After preprocessing the data in Python, I exported the cleaned dataset and built interactive Tableau dashboards. These dashboards include:
+After preprocessing the data in Python, I exported the cleaned dataset and built 2 interactive Tableau dashboards. These dashboards include:
 - Sales Volume vs. Unit Price: To analyze product pricing and stocking strategies.
 - Pareto Analysis for Items & Customers: To identify which products and customers contribute the most to revenue.
 - Regional sales distribution and quarterly comparisons (including year-over-year insights).
@@ -67,7 +67,8 @@ By segmenting customers based on their purchase frequency, recency, and average 
 
 
 ## How to Use This Repository
-- **Kaggle Notebook**: The project’s complete data analysis, including Python code for data cleaning and transformation, is available in the Kaggle Notebook (link provided in the repository).
+- [**Github Pages**](https://ajaanek.github.io/Online-Retail-Sales-Analysis/): The complete project - including both the Kaggle Notebook and the interactive Tableau Visualizations, is available in the deployed Github Page
+- [**Kaggle Notebook**](https://www.kaggle.com/code/ajaanekanagasabai/online-retail-sales-analysis): The project’s complete data analysis, including Python code for data cleaning and transformation, is available in the Kaggle Notebook (link provided in the repository).
 - **Tableau Visualizations**: The dashboards created in Tableau have been exported and are showcased via GitHub Pages. Visit the Deployed Dashboard for an interactive view.
 - **Source Code**: All Python scripts and SQL queries used in this project are included in the repository.
 
