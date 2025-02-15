@@ -2,12 +2,6 @@
 
 Welcome to my repository for the Online Retail Sales Analysis project. This project demonstrates my ability to perform a complete data analysis workflow—from data cleaning creating dynamic, insightful visualizations in Tableau. The project leverages a comprehensive dataset from Kaggle, which contains transaction-level data including product details, invoice numbers, customer information, and sales quantities.
 
-## Project Links
-- [Github Pages](https://ajaanek.github.io/Online-Retail-Sales-Analysis/)
-- [Tableau Sales Dashboard](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesDashboard)
-- [Tableau Sales Analysis](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesAnalysis?publish=yes)
-- [Kaggle Notebook](https://www.kaggle.com/code/ajaanekanagasabai/online-retail-sales-analysis)
-
 
 ## Overview
 Project Title: Online Retail Sales Analysis: A Data-Driven Approach to Optimizing Sales and Customer Insights
@@ -69,6 +63,8 @@ By segmenting customers based on their purchase frequency, recency, and average 
 - [**Github Pages**](https://ajaanek.github.io/Online-Retail-Sales-Analysis/): The complete project - including both the Kaggle Notebook and the interactive Tableau Visualizations, is available in the deployed Github Page
 - [**Kaggle Notebook**](https://www.kaggle.com/code/ajaanekanagasabai/online-retail-sales-analysis): The project’s complete data analysis, including Python code for data cleaning and transformation, is available in the Kaggle Notebook (link provided in the repository).
 - **Tableau Visualizations**: The dashboards created in Tableau have been exported and are showcased via GitHub Pages. Visit the Deployed Dashboard for an interactive view. You can also view the dashboards on Tableau.
+- - [Tableau Sales Dashboard](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesDashboard)
+- [Tableau Sales Analysis](https://public.tableau.com/app/profile/ajaane.kanagasabai/viz/OnlineRetailSalesAnalysis_17332491897690/SalesAnalysis?publish=yes)
 - **Source Code**: All Python scripts used in this project are included in the repository.
 
 
