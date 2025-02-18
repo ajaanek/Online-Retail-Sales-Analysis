@@ -3,10 +3,6 @@
 Welcome to my repository for the Online Retail Sales Analysis project. This project demonstrates my ability to perform a complete data analysis workflow—from data cleaning creating dynamic, insightful visualizations in Tableau. The project leverages a comprehensive dataset from Kaggle, which contains transaction-level data including product details, invoice numbers, customer information, and sales quantities.
 
 
-## Overview
-Project Title: Online Retail Sales Analysis: A Data-Driven Approach to Optimizing Sales and Customer Insights
-
-
 ## Objective:
 - Identify Top-Performing Products: Determine which products drive sales volume and revenue.
 - Analyze Regional Sales Trends: Uncover which regions contribute most to overall revenue.
